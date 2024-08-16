@@ -1,0 +1,5 @@
+M  C:/Users/Faiz/src/objects/Event.object
+A  C:/Users/Faiz/src/objects/Trading_Event__c.object
+R  C:/Users/Faiz/src/objects/ActiveScratchOrg.object
+M  C:/Users/Faiz/src/profiles/Admin.profile
+D  C:/Users/Faiz/src/reports/CACI_Imports/All_Closed.report
